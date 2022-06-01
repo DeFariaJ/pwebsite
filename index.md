@@ -6,6 +6,6 @@ layout: default
 
 Main content goes here.
 
-puts esta merda esta a funcionar
+puts esta £@$@@^@% esta a funcionar
 
 BoooooooooooorrrAAAAAAAAAA
