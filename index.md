@@ -6,6 +6,8 @@ layout: default
 
 Main content goes here.
 
-puts esta £@$@@^@% esta a funcionar
+Trying to develop locally
 
-BoooooooooooorrrAAAAAAAAAA
+and more and more
+
+bla bla bla
