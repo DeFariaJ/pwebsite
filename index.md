@@ -5,18 +5,15 @@ layout: default
 <h2>My Personal WebPage</h2>
 <style>
 	img {
-		width:  400px;
-		border-radius: 200px;
+		width: 300px;
+		border-radius: 150px;
 		float: left;
-		margin-right: 40px;
+		margin-right:50px;
 	}
-
 </style>
 
-
-
 <body>
-	<img src="images/pic2.jpg">
+	<img src="images/Untitled.png">
 </body>
 
 ### Main content goes here:
