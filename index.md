@@ -2,8 +2,15 @@
 layout: default
 ---
 
-<h2>My Personal WebPage</h2>
-<style>
+<html>
+  <body>
+    <h1>My WePage</h1>
+    <h2>this is the second heading</h2>
+    <h1>this is an important heading</h1>
+
+<a href="http://www.surftotal.com">This is a link for surfing</a>
+
+  <style>
 	img {
 		width: 300px;
 		border-radius: 150px;
@@ -12,18 +19,7 @@ layout: default
 	}
 </style>
 
-<body>
-	<img src="images/Untitled.png">
-</body>
+  <img src="images/Untitled.png">
 
-### Main content goes here:
-
-Trying to develop locally
-
-and more and more
-
-bla bla bla
-
-Domingao do faustao
-
-and more and more Domingao
+  </body>
+</html>
